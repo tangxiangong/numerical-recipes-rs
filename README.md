@@ -1,2 +1,1 @@
-# numerical-recipes-rs
-Numerical Recipes in Rust
+# Numerical Recipes in Rust

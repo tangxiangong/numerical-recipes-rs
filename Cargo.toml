@@ -1,0 +1,11 @@
+[package]
+authors = ["Xiangong Tang <tangxiangong@gmail.com>"]
+edition = "2024"
+license = "MIT"
+name = "nr"
+version = "0.1.0"
+
+[package.metadata.docs.rs]
+rustdoc-args = ["--cfg", "docsrs", "--html-in-header", "./docs-header.html"]
+
+[dependencies]
